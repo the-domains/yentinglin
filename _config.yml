@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8823242
+  brandStrength: 0.7992831
+  lightness: 0.9605735
+  brandColors:
+    - '#FEFEFE'
+    - '#43495D'
+    - '#302F31'
+    - '#878889'
+    - '#916E5C'
+  rhythmicContrast: 0.331168
+typography_spectrum: 0.3709677
+name: Yentinglin
